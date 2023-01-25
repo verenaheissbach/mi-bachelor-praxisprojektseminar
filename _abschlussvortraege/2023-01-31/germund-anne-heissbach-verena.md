@@ -57,3 +57,4 @@ für Demotivation und Überforderung seitens der Schüler:innen.
 - [Digitalstrategie Schule NRW](https://broschüren.nrw/fileadmin/digitalstrategie-schule-nrw/pdf/digitalstrategie_schule_nrw__web.pdf)
 - [Informationen zum DigitalPakt Schule](https://www.digitalpaktschule.de/de/fortschrittsbericht-zum-digitalpakt-schule-2019-2022-1836.html)
 - [Kernlehrplan Biologie für die Realschule in NRW](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-i/realschule/biologie/biologie-klp/kernlehrplan-biologie-inhalt-.html)
+- [ICLS 2018 Ergebnisse](https://www.bildungsserver.de/nachricht.html?nachricht_id=882 )
